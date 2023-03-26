@@ -49,4 +49,8 @@ int length = TextForLength ("Введите количество элемент�
 string[] array = Array(length);
 PrintArray(array);
 System.Console.WriteLine();
+string[] newarray = NewArray(array);
+PrintArray(newarray);
+
+
 

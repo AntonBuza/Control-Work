@@ -1,0 +1,15 @@
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.csproj.AssemblyReference.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.AssemblyInfoInputs.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.AssemblyInfo.cs
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.csproj.CoreCompileInputs.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/bin/Debug/net6.0/Контрольная работа
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/bin/Debug/net6.0/Контрольная работа.deps.json
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/bin/Debug/net6.0/Контрольная работа.runtimeconfig.json
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/bin/Debug/net6.0/Контрольная работа.dll
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/bin/Debug/net6.0/Контрольная работа.pdb
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.dll
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/refint/Контрольная работа.dll
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.pdb
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/Контрольная работа.genruntimeconfig.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Выбор специализации/Контрольная работа/obj/Debug/net6.0/ref/Контрольная работа.dll
